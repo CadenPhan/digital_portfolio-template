@@ -1,2 +1,2 @@
-# digital_portfolio-template
+# Portfolio
 template for students to create a digital portfolio
